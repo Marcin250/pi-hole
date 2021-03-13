@@ -1,0 +1,12 @@
+{
+    "name": "pi-hole/hosts",
+    "description": "",
+    "type": "project",
+    "keywords": [],
+    "license": "MIT",
+    "require": {
+        "php": "^7.3",
+        "illuminate/support": "^9.0@dev"
+    },
+    "minimum-stability": "dev"
+}
